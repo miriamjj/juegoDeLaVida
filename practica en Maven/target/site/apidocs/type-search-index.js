@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"es.ceu.programacion2.practica2.principal","l":"Principal"},{"p":"es.ceu.programacion2.practica2.dominio","l":"Tablero"}]

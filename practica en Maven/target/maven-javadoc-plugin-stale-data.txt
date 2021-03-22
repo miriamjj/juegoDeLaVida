@@ -1,0 +1,48 @@
+/usr/lib/jvm/java-11-openjdk/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/leo/javaProjects/JuegoDeLaVidaMaven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'juegodelavida 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/leo/javaProjects/JuegoDeLaVidaMaven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'juegodelavida 1.0-SNAPSHOT API'
+es.ceu.programacion2.practica2.dominio
+es.ceu.programacion2.practica2.principal
+/home/leo/javaProjects/JuegoDeLaVidaMaven/src/main/java = 1616439296515
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/element-list = 1616439971509
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/constant-values.html = 1616439971546
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/overview-tree.html = 1616439971576
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/package-search-index.js = 1616439971596
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/package-search-index.zip = 1616439971639
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/type-search-index.js = 1616439971639
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/type-search-index.zip = 1616439971643
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/member-search-index.js = 1616439971643
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/member-search-index.zip = 1616439971643
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/index-all.html = 1616439971646
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/allclasses-index.html = 1616439971653
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/allpackages-index.html = 1616439971656
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/deprecated-list.html = 1616439971669
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/allclasses.html = 1616439971673
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/index.html = 1616439971686
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/overview-summary.html = 1616439971689
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/help-doc.html = 1616439971696
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/stylesheet.css = 1616439971699
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/script.js = 1616439971699
+/home/leo/javaProjects/JuegoDeLaVidaMaven/target/site/apidocs/search.js = 1616439971699
